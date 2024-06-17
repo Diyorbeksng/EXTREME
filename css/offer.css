@@ -1,0 +1,57 @@
+.nav-menu{
+    button{
+
+        margin-right:0px;
+        font-size:medium;
+    }
+}
+
+.navv{
+    width: 95%;
+    
+}
+
+.nav1{
+    justify-content: space-around;
+}
+
+nav, .nav{
+    position: relative;
+}
+
+.Ocontainer{
+    padding-left: 40px;
+    padding-right: 20px;
+}
+
+.Omain-content{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:  80px;
+}
+
+.Omain-contentL{
+    width: 35%;
+    img{
+        width: 100%;
+        height: auto;
+    }
+}
+
+.Omain-contentR{
+    width: 60%;
+}
+
+button{
+    background-color: #7cab94;
+    font-size: larger;
+
+}
+
+button:hover{
+    opacity: 0.9;
+}
+
+.bottom-bar{
+    text-align: center;
+}
