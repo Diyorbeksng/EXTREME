@@ -21,6 +21,7 @@
     display: flex;
     justify-content:space-between;
     position: fixed;
+    
 }
 
 .nav-menu{
@@ -210,3 +211,28 @@ button{
 .bottom-bar h2{
     color: white;
 }
+
+
+.swiper {
+    width: 600px;
+    height: 300px;
+  }
+
+  .swiper-slide{
+    img{
+        width: 100%;
+        height: 100%;
+    }
+  }
+
+
+  .Gmain{
+    margin-top: 50px;
+    
+    margin-bottom: 50px;
+  }
+
+  .Gnav{
+    position: relative;
+    padding-left: 30px;
+  }
