@@ -236,3 +236,36 @@ button{
     position: relative;
     padding-left: 30px;
   }
+
+
+
+
+
+
+
+
+
+
+  .main-content{
+    animation-duration: 3s;
+    animation-name: slidein;
+    transition: all 3s ease;
+}
+
+
+
+
+@keyframes slidein {
+
+    0%{
+        transform:translateY(0);
+    }
+
+    50%{
+        transform: translateY(-150px);
+    }
+
+    100%{
+        transform: translateY(0);
+    }
+  }
