@@ -1,0 +1,51 @@
+.bg{
+    width: 100%;
+    height: 800px;
+    background-image: url('../img/swiper3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main-zagl{
+    padding-left: 45%;
+    padding-top: 300px;
+    margin-bottom: 50px;
+    a:hover{
+        text-decoration: underline;
+    }
+}
+.main{
+    height: 0;
+}
+body{
+    height: 0;
+}
+.forma{
+    width: 100vh;
+    height: 900px;
+    text-align: left;
+    margin: 25%;
+}
+
+.bottom{
+margin-top: 750px;
+padding-bottom: 0;
+margin-bottom: 0;
+}
+
+.forma{
+    height: 0px;
+    margin-bottom: 30px;
+    font-size: xx-large;
+    input{
+        width: 100%;
+        padding: 5px;
+    }
+    
+    textarea{
+        
+        width: 100%;
+        height: 100px;
+        padding: 5px;
+    }
+}
